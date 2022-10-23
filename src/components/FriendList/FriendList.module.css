@@ -1,0 +1,16 @@
+.friend_list {
+  max-width: 200px;
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  margin-top: 100px;
+}
+
+.item {
+  display: flex;
+  background-color: #ffffff;
+  margin-bottom: 10px;
+  box-shadow: 2px 2px 2px 2px rgb(194, 190, 190);
+  border-radius: 2px;
+  padding: 5px 10px;
+}
